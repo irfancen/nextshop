@@ -1,1 +1,1 @@
-export default function Page(){return <h1>shop</h1>}
+export default function Page(){return <h1>nextshop</h1>}
